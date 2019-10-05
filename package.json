@@ -1,0 +1,19 @@
+{
+  "name": "www.kradnoel.com",
+  "version": "1.0.0",
+  "description": "My personal website",
+  "main": "index.js",
+  "repository": "https://github.com/kradnoel/wwww.kradnoel.com",
+  "author": "Djamal dos Santos <djamal.dos.santos@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fullpage.js": "^3.0.7",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.7.0",
+    "gulp-pug": "^4.0.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-watch": "^5.0.1",
+    "pug": "^2.0.4"
+  }
+}

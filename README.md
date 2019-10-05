@@ -23,7 +23,7 @@ Remove the google analytics code at `src/scripts/custom.js` please (or setup one
 
 ## Quick start
 
-* Clone the repo: `git clone https://github.com/kradnoel/kradnoel.com`
+* Clone the repo: `git clone https://github.com/kradnoel/www.kradnoel.com`
 * Install dependencies with [npm](https://www.npmjs.org/) `npm install` or with [yarn](http://bower.io/) `yarn install`
 * Buid the project with [gulp](https://www.npmjs.org/) `gulp build`. The build artifacts will be stored in the `dist/` directory.
 * Run the project with `gulp connect`

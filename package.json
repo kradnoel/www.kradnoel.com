@@ -7,7 +7,7 @@
   "author": "Djamal dos Santos <djamal.dos.santos@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "fullpage.js": "^3.0.7",
+    "fullpage.js": "^4.0.5",
     "gulp": "^4.0.2",
     "gulp-concat": "^2.6.1",
     "gulp-connect": "^5.7.0",
